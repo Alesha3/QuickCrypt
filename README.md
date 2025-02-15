@@ -1,0 +1,1 @@
+Application for encrypting and decrypting files

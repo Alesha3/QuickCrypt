@@ -1,0 +1,25 @@
+{
+    "Russia": {
+        "instructions_text": "1) Нажмите \"Обзор\" в разделе \"Файл для шифрования/расшифровки\", чтобы выбрать входной файл.\n2) Укажите выходной файл, нажав \"Обзор\" в разделе \"Файл сохранения\".\n3) Введите ключ вручную или нажмите \"Сгенерировать ключ\".\n4) Нажмите \"Зашифровать\" для шифрования или \"Расшифровать\" для расшифровки.\n5) Используйте правильный ключ, иначе файл не удастся расшифровать.",
+        "input_file": "Файл для шифрования/расшифровки:",
+        "output_file": "Файл сохранения:",
+        "browse": "Обзор",
+        "key_text": "Ключ шифрования:",
+        "key_button": "Сгенерировать ключ",
+        "encrypt_button": "Зашифровать",
+        "decrypt_button": "Расшифровать",
+        "lost_key": "ЕСЛИ ВЫ ПОТЕРЯЕТЕ КЛЮЧ, ВЫ БОЛЬШЕ НЕ СМОЖЕТЕ РАСШИФРОВАТЬ ФАЙЛ"
+    },
+    "English": {
+        "instructions_text": "1) Click \"Browse\" in the \"File for encryption/decryption\" section to select the input file.\n2) Specify the output file by clicking \"Browse\" in the \"File for saving\" section.\n3) Enter the key manually or click \"Generate Key\".\n4) Click \"Encrypt\" to encrypt the file or \"Decrypt\" to decrypt it.\n5) Use the correct key; otherwise, the file cannot be decrypted.",
+        "input_file": "File for encryption/decryption:",
+        "output_file": "File for saving:",
+        "browse": "Browse",
+        "key_text": "Encryption Key:",
+        "key_button": "Generate Key",
+        "encrypt_button": "Encrypt",
+        "decrypt_button": "Decrypt",
+        "lost_key": "IF YOU LOSE THE KEY, YOU WILL NO LONGER BE ABLE TO DECRYPT THE FILE"
+    },
+    "Language": "English"
+}
